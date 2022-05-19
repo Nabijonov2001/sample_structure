@@ -1,0 +1,14 @@
+{
+    "error_messages": {
+        "auth_401": {
+            "en": "Authentication denied",
+            "ru": "Authentication denied",
+            "uz": "Authentication denied"
+        },
+        "admin_403": {
+            "en": "You are not allowed to this action",
+            "ru": "You are not allowed to this action",
+            "uz": "You are not allowed to this action"
+        }
+    }
+}
